@@ -22,13 +22,14 @@ public void setPrice(double price) {
     this.price = price; 
 }
 
-//Getter ใช้เื่อดึงค่าออกมา
+//Getter ใช้เพื่อดึงค่าออกมา
 public String getTitle() {
     return title;
 }
 public String getAuthor() {
     return author;
 }
+
 
 
 }
